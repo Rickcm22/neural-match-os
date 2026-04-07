@@ -2,7 +2,7 @@
 ### Sistema de entrenamiento cognitivo y memoria visual
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x350.png?text=Preview+de+Neural+Match+OS" alt="Neural Match Preview" />
+  <img src="https://raw.githubusercontent.com/Rickcm22/neural-match-os/main/screenshots/NOMBRE_DE_TU_IMAGEN.png" alt="Neural Match Preview" />
 </p>
 
 ---
