@@ -1,13 +1,29 @@
 # 🧠 Neural Match OS
-Sistema de entrenamiento cognitivo y memoria visual desarrollado en **Java**.
+### Sistema de entrenamiento cognitivo y memoria visual
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rickcm22/neural-match-os/main/screenshots/NOMBRE_DE_TU_IMAGEN.png" alt="Neural Match Preview" />
+</p>
+
+---
 
 ## 🚀 Descripción
-Este proyecto es una aplicación de escritorio que utiliza **JavaFX** para crear una interfaz dinámica de juego de memoria. Fue desarrollado como parte de mi formación académica en Ingeniería de Software.
+**Neural Match OS** es una aplicación de escritorio desarrollada en **Java** utilizando la biblioteca **JavaFX**. El proyecto se enfoca en desafiar la retención de memoria visual del usuario mediante una interfaz dinámica y lógica de juego estructurada.
 
-## 🛠️ Tecnologías utilizadas
-* **Lenguaje:** Java 21
-* **Librerías:** JavaFX 21
-* **IDE:** Visual Studio Code
+Este proyecto fue desarrollado como parte de mi formación en **Ingeniería de Software**, aplicando principios de programación orientada a objetos (POO) y diseño de interfaces de usuario (UI).
 
-## ⚙️ Notas de Configuración
-Si descargas este proyecto y ves errores de `import`, asegúrate de vincular el **JavaFX SDK** en las librerías referenciadas de tu IDE. El código es totalmente funcional, pero requiere la configuración del entorno local de JavaFX.
+## 🛠️ Tecnologías Utilizadas
+* **Lenguaje:** Java 17+
+* **Framework GUI:** JavaFX
+* **Estilos:** CSS (JavaFX CSS)
+* **Build Tool:** Maven / Gradle (especifica cuál usas)
+
+## ✨ Características Principales
+* **Interfaz Dinámica:** Transiciones fluidas y feedback visual inmediato.
+* **Lógica Progresiva:** Sistema de puntuación y niveles de dificultad (si aplica).
+* **Arquitectura MVC:** Separación clara entre la lógica del juego y la interfaz visual.
+
+## 📦 Instalación y Ejecución
+1. Clona el repositorio:
+   ```bash
+   git clone [https://github.com/Rickcm22/neural-match-os.git](https://github.com/Rickcm22/neural-match-os.git)
