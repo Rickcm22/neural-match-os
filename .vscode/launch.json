@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MatchMind",
+            "request": "launch",
+            "mainClass": "MatchMind",
+            "vmArgs": "--module-path \"C:/Users/Usuario/Downloads/openjfx-21.0.10_windows-x64_bin-sdk/javafx-sdk-21.0.10/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
