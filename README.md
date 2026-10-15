@@ -1,5 +1,7 @@
-# 🧠 Neural Match OS
-### Sistema de entrenamiento cognitivo y memoria visual
+# 🧠 NEURAL_MATCH_OS // SYSTEM_OVERRIDE
+> **Status:** Operational  
+> **Environment:** Java 17+ / JavaFX / CSS (Cyberpunk UI)  
+> **Origin:** Software Engineering Project
 
 <p align="center">
   <img src="screenshots/preview.png" alt="Neural Match Preview" width="600" />
@@ -7,23 +9,23 @@
 
 ---
 
-## 🚀 Descripción
-**Neural Match OS** es una aplicación de escritorio desarrollada en **Java** utilizando la biblioteca **JavaFX**. El proyecto se enfoca en desafiar la retención de memoria visual del usuario mediante una interfaz dinámica y lógica de juego estructurada.
+## ⚡ Overview
+**Neural Match OS** es un sistema de entrenamiento cognitivo y memoria visual desarrollado en Java utilizando la biblioteca **JavaFX**. El proyecto simula una interfaz de terminal avanzada bajo una estética *cyberpunk*, desafiando la retención de memoria visual del usuario mediante una dinámica fluida y un diseño de interfaz altamente personalizado.
 
-Este proyecto fue desarrollado como parte de mi formación en **Ingeniería de Software**, aplicando principios de programación orientada a objetos (POO) y diseño de interfaces de usuario (UI).
+Este software fue desarrollado como parte de mi formación en **Ingeniería de Software**, aplicando principios de Programación Orientada a Objetos (POO) y diseño avanzado de interfaces de usuario (UI).
 
-## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** Java 17+
-* **Framework GUI:** JavaFX
-* **Estilos:** CSS (JavaFX CSS)
-* **Build Tool:** Maven / Gradle (especifica cuál usas)
+## 🛠️ Technical Specs
+- **Lenguaje:** Java 17+
+- **Framework GUI:** JavaFX
+- **Estilos:** CSS (JavaFX CSS - Estética DedSec)
+- **Arquitectura:** Estructura modular y gestión de estados asíncronos (`PauseTransition`).
 
-## ✨ Características Principales
-* **Interfaz Dinámica:** Transiciones fluidas y feedback visual inmediato.
-* **Lógica Progresiva:** Sistema de puntuación y niveles de dificultad (si aplica).
-* **Arquitectura MVC:** Separación clara entre la lógica del juego y la interfaz visual.
+## ✨ Core Features
+- **Interfaz Dinámica:** Transiciones fluidas y *feedback* visual inmediato en aciertos y fallos.
+- **Temporizador de Uptime:** Control de tiempo transcurrido en tiempo real mediante hilos de sistema.
+- **Feedback Estético:** Cambios de color reactivos al sincronizar pares en la cuadrícula.
 
-## 📦 Instalación y Ejecución
-1. Clona el repositorio:
+## 📦 Installation & Execution
+1. **Clona el repositorio:**
    ```bash
    git clone [https://github.com/Rickcm22/neural-match-os.git](https://github.com/Rickcm22/neural-match-os.git)
